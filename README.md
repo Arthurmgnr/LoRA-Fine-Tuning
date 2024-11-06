@@ -2,6 +2,10 @@
 
 [arXiv](https://arxiv.org/pdf/2106.09685)
 
+[Lora](https://github.com/microsoft/LoRA)
+
+[Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2)
+
 **Il faut d'abord cloner le repository**
 
 ## Initialisation
