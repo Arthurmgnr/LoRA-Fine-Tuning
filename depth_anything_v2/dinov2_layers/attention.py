@@ -9,7 +9,7 @@
 #   https://github.com/rwightman/pytorch-image-models/tree/master/timm/models/vision_transformer.py
 
 import logging
-
+import loralib as lora
 from torch import Tensor
 from torch import nn
 
