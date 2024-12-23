@@ -7,3 +7,4 @@ torchvision
 jupyter
 loralib
 transformers
+scikit-learn
